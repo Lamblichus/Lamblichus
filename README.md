@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lamblichus
 - 👀 I’m interested in software development
-- 🖥️ I'm a Gentoo user.
+- 🖥️ I'm an Arch user.
 
 <!---
 Lamblichus/Lamblichus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
